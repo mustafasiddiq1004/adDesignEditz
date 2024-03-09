@@ -895,6 +895,7 @@ footer span a:hover {
 
     .navbar .logo img {
         font-size: 1rem;
+        margin-right: -33px;
     }
 
     .home .home-content .text-2 {
