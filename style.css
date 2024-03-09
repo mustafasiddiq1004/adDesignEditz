@@ -847,12 +847,12 @@ footer span a:hover {
     }
 
     .home .home-content .text-2 {
-        color: white;
+        color: black;
         font-size: 57px;
         font-family: 'Protest Riot', sans-serif;
         font-weight: 900;
-        -webkit-text-stroke-width: 2px;
-        -webkit-text-stroke-color: #000000;
+/*         -webkit-text-stroke-width: 2px;
+        -webkit-text-stroke-color: #000000; */
     }
 
     .home .home-content .text-3 {
